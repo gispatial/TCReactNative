@@ -1,5 +1,5 @@
 ## Tripcarte.Asia-the-iOS-version.
- TC-RN-WITH-JSON-OFFLINE-API
+ TC-RN-WITH-JSON OFFLINE FEATURES...
  <p>
  </p>
  <img src="https://github.com/gispatial/TCReactNative/blob/main/ss.png" width="100%">
