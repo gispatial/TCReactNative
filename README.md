@@ -131,18 +131,8 @@ $ npm install or $ yarn
 
 CD first > ios then proceed with the installation process:
 
-- npm run serve
-- yarn serve
-- Expo Start 
-
-  Note that the development build is not optimized.
-  To create a production build, run yarn build.
-
-# Steps to build it
-
 ## Prerequisites
-
-You will need to have Node.js or Yarn installed in your machine.
+In order this project to be good and in success need a container  will need to have Node.js or Yarn installed in your machine.
 [[NodeJs](https://nodejs.org/en)] [[YarnPkg](https://yarnpkg.com/)]
 
 
