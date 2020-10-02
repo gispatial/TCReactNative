@@ -5,7 +5,7 @@
  <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/e.png" width="100%">
  <p>
  </p>
- <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/b.png" width="100%">
+ <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/ed.png" width="28%">
  Updated on recent npm/ yarn dependencies using Native React Element Components -
  Added So far:
  
