@@ -1,18 +1,17 @@
-# TCReactNative | TC-RN-IOS
-React-Native iOS version for Tripcarte.Asia. With Docker and ReactionCommerce support.
-The App source doesn’t contain any API yet at root integration.
-
 ## 
 <img src="https://github.com/gispatial/TCReactNative/blob/main/ed.png" width="24%">
+### TCReactNative | TC-RN-IOS
+React-Native iOS version for Tripcarte.Asia users. With Docker and ReactionCommerce support.
+The App source doesn’t contain any API yet to set this as production.
 
-# Tripcarte.Asia-the-iOS-version.
+## Tripcarte.Asia-the-iOS-version.
  TC-RN-WITH-JSON-OFFLINE-API
  <p>
  </p>
- <img src="https://github.com/gispatial/TCReactNative/blob/main/b.png" width="100%">
+ <img src="https://github.com/gispatial/TCReactNative/blob/main/ss.png" width="100%">
  <p>
  </p>
- <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/c.png" width="100%">
+ <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/e.png" width="100%"><img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/f.png" width="100%">
  Updated with recent npm/ yarn dependency using Native React - Navigation 2020 - Docker Container. Backup support made possible by ReactionCommerce . 
 
 ## TC-RN-IOS
@@ -151,13 +150,13 @@ You will need to have Node.js or Yarn installed in your machine.
 
 ## Steps
 
-- `npm install` or 'yarn install' to install existing dependencies:
+- `npm install` or 'yarn install':
 
 ```
 $ npm install or $ yarn
 ```
 
-- Create Auth0 `server` api model folder/ dir:
+- CD to --> iOS /directory Then $ pod installati:
 
 ### mkdir ./server
 
