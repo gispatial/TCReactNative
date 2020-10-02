@@ -2,13 +2,16 @@
  TC-RN-WITH-JSON-OFFLINE-API
  <p>
  </p>
- <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/tdmp-final.png" width="100%">
+ <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/e.png" width="100%">
  <p>
  </p>
- <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/payout-redemptions.png" width="100%">
- Updated with recent npm/ yarn dependency using Native React - Navigation 2020 - Docker Container. Backup support made possible by ReactionCommerce . 
+ <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/b.png" width="100%">
+ Updated on recent npm/ yarn dependencies using Native React Element Components -
+ Added So far:
+ 
+ vNavigation 2020 - Docker Container. Backup support made possible by ReactionCommerce . 
 
-## TDPM-API
+## TC-RN-IOS__VERSION
 <table data-v-7b6b9330="">
 <thead data-v-7b6b9330="">
 <tr data-v-7b6b9330="">
@@ -168,8 +171,9 @@ npm run serve or yarn serve
 - Network: http://192.168.0.114:8080/
 ```
 
-## Third-Party Plugins
-Vuexy Admin comes with useful third party plug-ins to help you building your app quickly.
+## Third-Party Plugins and Open Source Services
+Reaction Commerce: https://github.com/reactioncommerce/reaction<br>
+Docker Hub: https://hub.docker.com/
 
 ### agGrid Table
 Description: THE best javascript grid in the world
