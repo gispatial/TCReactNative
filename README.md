@@ -1,18 +1,14 @@
-## Tripcarte.Asia-the-iOS-version.
- TC-RN-WITH-JSON OFFLINE FEATURES...
+# Tripcarte.Asia-the-iOS-version.
+ TC-RN-WITH-JSON-OFFLINE-API
  <p>
  </p>
- <img src="https://github.com/gispatial/TCReactNative/blob/main/ss.png" width="100%">
- ## 
-<img src="https://github.com/gispatial/TCReactNative/blob/main/ed.png" width="24%">
-### TCReactNative | TC-RN-IOS
-The iOS React-Native version for Tripcarte.Asia clietele. Separate installation of Docker and ReactionCommerce not that really urgent until this project is stable.
-The App source doesn’t contain any API yet to set this as production.
+ <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/tdmp-final.png" width="100%">
  <p>
  </p>
- Updated with recent npm/ yarn dependencies code with Native React-Native - thanks to our backup support from Docker & ReactionCommerce . 
+ <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/payout-redemptions.png" width="100%">
+ Updated with recent npm/ yarn dependency using Native React - Navigation 2020 - Docker Container. Backup support made possible by ReactionCommerce . 
 
-## TC-RN-IOS
+## TDPM-API
 <table data-v-7b6b9330="">
 <thead data-v-7b6b9330="">
 <tr data-v-7b6b9330="">
@@ -125,26 +121,35 @@ The App source doesn’t contain any API yet to set this as production.
 </table>
 <p>&nbsp;</p>
 
-# Howto start with working this project..
+# Project setup
 
 $ npm install or $ yarn
 
-CD first > ios then proceed with the installation process:
+Compiles and hot-reloads for development:
+
+- npm run serve
+- yarn serve
+
+  Note that the development build is not optimized.
+  To create a production build, run yarn build.
+
+# Steps to build it
 
 ## Prerequisites
-In order this project to be good and in success need a container  will need to have Node.js or Yarn installed in your machine.
+
+You will need to have Node.js or Yarn installed in your machine.
 [[NodeJs](https://nodejs.org/en)] [[YarnPkg](https://yarnpkg.com/)]
 
 
 ## Steps
 
-- `npm install` or 'yarn install':
+- `npm install` or 'yarn install' to install existing dependencies:
 
 ```
 $ npm install or $ yarn
 ```
 
-- CD to --> iOS /directory Then $ pod installati:
+- Create Auth0 `server` api model folder/ dir:
 
 ### mkdir ./server
 
@@ -223,4 +228,3 @@ Tripcarte Dashboard Portal Admin comes with useful third party plug-ins to help 
 # About Tripcarte.Asia Dashboard Portal Project
 
 At Netquest Solutions Sdn Bhd, our engineers constantly use latest framework, technologies and programming language. Keeping up to date with latest framework not only ensures rapid development time, but updated framework technologies are more protected from malwares, security threats and operating system incompatibility. For more info, please visit: https://netquestsolutions.com/
-

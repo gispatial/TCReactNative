@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "21261264fbeea0a0d953aeb1437415db"
+build_time: [1601632984, 975847000]
+inputs:
+  "/Users/justed/Desktop/GIT/ReactStore/ios/Pods/YogaKit/YogaKit/Source/YGLayoutExtensions.swift": [1601632865, 644569634]

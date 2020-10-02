@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Flipper/xplat/Flipper/CertificateUtils.cpp \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Target\ Support\ Files/Flipper/Flipper-prefix.pch \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Flipper/xplat/Flipper/CertificateUtils.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pem.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/e_os2.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslconf.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslconf-x86_64.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/bio.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/crypto.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/stack.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/safestack.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/opensslv.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ossl_typ.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/symhacks.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/evp.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/objects.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/obj_mac.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/asn1.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/bn.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/x509.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/buffer.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ec.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ecdsa.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/ecdh.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/rsa.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/dsa.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/dh.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/sha.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/x509_vfy.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/lhash.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pkcs7.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/OpenSSL-Universal/openssl/pem2.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/Flipper-Folly/folly/portability/Fcntl.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/Flipper-Folly/folly/portability/SysStat.h

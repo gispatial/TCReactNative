@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/justed/Desktop/GIT/ReactStore/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.mm \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Target\ Support\ Files/RCTTypeSafety/RCTTypeSafety-prefix.pch \
+  /Users/justed/Desktop/GIT/ReactStore/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Folly/folly/Optional.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Folly/folly/Portability.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Folly/folly/CPortability.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Folly/folly/Traits.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Folly/folly/Utility.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h

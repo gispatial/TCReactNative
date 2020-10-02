@@ -1,0 +1,6 @@
+module Pods_ReactStore {
+  umbrella header "Pods-ReactStore-umbrella.h"
+
+  export *
+  module * { export * }
+}
