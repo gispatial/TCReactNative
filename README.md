@@ -1,5 +1,3 @@
-
-
 ## Tripcarte.Asia-the-iOS-version.
  TC-RN-WITH-JSON-OFFLINE-API
  <p>
@@ -8,12 +6,11 @@
  ## 
 <img src="https://github.com/gispatial/TCReactNative/blob/main/ed.png" width="24%">
 ### TCReactNative | TC-RN-IOS
-React-Native iOS version for Tripcarte.Asia users. With Docker and ReactionCommerce support.
+The iOS React-Native version for Tripcarte.Asia clietele. Separate installation of Docker and ReactionCommerce not that really urgent until this project is stable.
 The App source doesn’t contain any API yet to set this as production.
  <p>
  </p>
- <img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/e.png" width="100%"><img src="https://github.com/gispatial/tripcarte-asia-JWT/blob/master/f.png" width="100%">
- Updated with recent npm/ yarn dependency using Native React - Navigation 2020 - Docker Container. Backup support made possible by ReactionCommerce . 
+ Updated with recent npm/ yarn dependencies code with Native React-Native - thanks to our backup support from Docker & ReactionCommerce . 
 
 ## TC-RN-IOS
 <table data-v-7b6b9330="">
