@@ -9,7 +9,7 @@
  Updated on recent npm/ yarn dependencies using Native React Element Components -
  Added So far:
  
- vNavigation 2020 - Docker Container. Backup support made possible by ReactionCommerce . 
+ Docker Container. Backup support made possible by ReactionCommerce . 
 
 ## TC-RN-IOS__VERSION
 <table data-v-7b6b9330="">
@@ -133,6 +133,36 @@ CD > ios and $ pod install
 
 Then return back to the root install CD .. and run below command
 
+## System Requirements
+NodeJS
+Make sure you have a recent version (8.11 or later) of ​Node​ installed globally.
+We recommend installing Node and Watchman using ​Homebrew​. Run the following commands
+
+in a Terminal after installing Homebrew:
+
+brew install node brew install watchman
+
+If you have already installed Node on your system, make sure it is Node 8.3 or newer.
+
+Watchman​ is a tool by Facebook for watching changes in the filesystem. It is highly recommended you install it for better performance.
+
+Yarn (recommend)
+​
+
+Please follow yarn official install guide.​ https://yarnpkg.com/en/docs/install#mac-stable
+
+## Xcode & CocoaPods
+
+The easiest way to install Xcode is via the ​Mac App Store​. Installing Xcode will also install the iOS Simulator and all the necessary tools to build your iOS app. If you have already installed Xcode on your system, make sure it is version 9.4 or newer.
+
+## Command Line Tools
+You will also need to install the Xcode Command Line Tools. Open Xcode, then choose “Preferences…” from the Xcode menu. Go to the Locations panel and install the tools by selecting the most recent version in the Command Line Tools dropdown.
+
+Installing an iOS Simulator in Xcode
+
+To install a simulator, open ​Xcode > Preferences…​ and select
+the ​Components​ tab. Select a simulator with the corresponding version of iOS you wish to use.
+
 ## CocoaPods
 
 CocoaPods​ is built with Ruby and it will be installable with the default Ruby available on macOS. You can use a Ruby Version manager, however we recommend that you use the standard Ruby available on macOS unless you know what you’re doing.
@@ -144,13 +174,16 @@ Using the default Ruby install will require you to use ​sudo​ when installin
 sudo​ gem ​install​ cocoapods
 For more information, please visit ​CocoaPods Getting Started guide​.
 
-It Compiles and hot-reloads for development:
+## Java Development Kit
 
-- npx react-native run-ios
+We recommend installing JDK using ​Homebrew​. Run the following commands in
 
-  Note that the development build is not optimized.
-  To create a production build, run yarn build.
+a Terminal after installing Homebrew:
 
+brew cask ​install​ adoptopenjdk/openjdk/adoptopenjdk8
+If you have already installed JDK on your system, make sure it is JDK 8 or
+
+newer.
 # Steps to build it
 
 ## Prerequisites
@@ -164,23 +197,6 @@ You will need to have Node.js or Yarn installed in your machine.
 Reaction Commerce: https://github.com/reactioncommerce/reaction<br>
 Docker Hub: https://hub.docker.com/
 
-### agGrid Table
-Description: THE best javascript grid in the world
-
-## Third-Party Plugins
-Tripcarte Dashboard Portal Admin comes with useful third party plug-ins to help you building your app quickly.
-### Technical Specification (Credits 🙏)<p></p>
-<li><a href="https://lusaxweb.github.io/vuesax/" target="_blank" rel="noopener noreferrer">Vuesax</a>&nbsp;- Vuejs component Library</li>
-<li><a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">Tailwind</a></li>
-<li><a href="https://vuex.vuejs.org/" target="_blank" rel="noopener noreferrer">Vuex</a></li>
-<li><a href="https://router.vuejs.org/" target="_blank" rel="noopener noreferrer">Vue Router</a></li>
-<li><a href="https://vuepress.vuejs.org/" target="_blank" rel="noopener noreferrer">VuePress</a></li>
-<li><a href="https://github.com/axios/axios" target="_blank" rel="noopener noreferrer">Axios</a></li>
-<li><a href="https://www.algolia.com/" target="_blank" rel="noopener noreferrer">Algolia Search</a></li>
-<li><a href="https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/vue/" target="_blank" rel="noopener noreferrer">Vue InstantSearch</a></li>
-<li><a href="https://auth0.com/" target="_blank" rel="noopener noreferrer">Auth0</a></li>
-<li><a href="https://fir
-</ul>
 
 ## License
 
