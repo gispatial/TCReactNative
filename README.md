@@ -133,6 +133,17 @@ CD > ios and $ pod install
 
 Then return back to the root install CD .. and run below command
 
+## CocoaPods
+
+CocoaPods​ is built with Ruby and it will be installable with the default Ruby available on macOS. You can use a Ruby Version manager, however we recommend that you use the standard Ruby available on macOS unless you know what you’re doing.
+
+Using the default Ruby install will require you to use ​sudo​ when installing gems.
+
+(This is only an issue for the duration of the gem installation, though.)
+
+sudo​ gem ​install​ cocoapods
+For more information, please visit ​CocoaPods Getting Started guide​.
+
 It Compiles and hot-reloads for development:
 
 - npx react-native run-ios
@@ -159,8 +170,6 @@ Description: THE best javascript grid in the world
 ## Third-Party Plugins
 Tripcarte Dashboard Portal Admin comes with useful third party plug-ins to help you building your app quickly.
 ### Technical Specification (Credits 🙏)<p></p>
-<li>Powered by&nbsp;<a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">Vue</a></li>
-<li><a href="https://cli.vuejs.org/" target="_blank" rel="noopener noreferrer">Vue CLI 3</a></li>
 <li><a href="https://lusaxweb.github.io/vuesax/" target="_blank" rel="noopener noreferrer">Vuesax</a>&nbsp;- Vuejs component Library</li>
 <li><a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">Tailwind</a></li>
 <li><a href="https://vuex.vuejs.org/" target="_blank" rel="noopener noreferrer">Vuex</a></li>
@@ -170,34 +179,7 @@ Tripcarte Dashboard Portal Admin comes with useful third party plug-ins to help 
 <li><a href="https://www.algolia.com/" target="_blank" rel="noopener noreferrer">Algolia Search</a></li>
 <li><a href="https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/vue/" target="_blank" rel="noopener noreferrer">Vue InstantSearch</a></li>
 <li><a href="https://auth0.com/" target="_blank" rel="noopener noreferrer">Auth0</a></li>
-<li><a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">Firebase</a></li>
-<li>SASS Powered</li>
-<li>Charts
-<ul>
-<li><a href="https://apexcharts.com/vue-chart-demos/" target="_blank" rel="noopener noreferrer">Apex Charts</a></li>
-<li><a href="https://vue-chartjs.org/" target="_blank" rel="noopener noreferrer">Chartjs</a></li>
-<li><a href="https://ecomfe.github.io/vue-echarts/demo/" target="_blank" rel="noopener noreferrer">eCharts</a></li>
-</ul>
-</li>
-<li><a href="https://baianat.github.io/vee-validate/" target="_blank" rel="noopener noreferrer">VeeValidate</a></li>
-<li><a href="https://github.com/BinarCode/vue-form-wizard" target="_blank" rel="noopener noreferrer">Vue Form Wizard</a></li>
-<li><a href="https://github.com/Wanderxx/vue-fullcalendar" target="_blank" rel="noopener noreferrer">Vue Full Calendar</a></li>
-<li><a href="https://sagalbot.github.io/vue-select/" target="_blank" rel="noopener noreferrer">Vue Select</a></li>
-<li><a href="https://github.com/SortableJS/Vue.Draggable" target="_blank" rel="noopener noreferrer">Vue Draggable</a></li>
-<li><a href="https://github.com/surmon-china/vue-video-player" target="_blank" rel="noopener noreferrer">Vue Video Player</a></li>
-<li><a href="https://github.com/egoist/vue-feather-icons" target="_blank" rel="noopener noreferrer">Vue Feather Icons</a></li>
-<li><a href="https://github.com/xkjyeah/vue-google-maps" target="_blank" rel="noopener noreferrer">Vue Google Maps</a></li>
-<li><a href="https://kazupon.github.io/vue-i18n/" target="_blank" rel="noopener noreferrer">Vue I18n</a></li>
-<li><a href="https://github.com/Degfy/vue-perfect-scrollbar" target="_blank" rel="noopener noreferrer">Vue Perfect Scollbar</a></li>
-<li><a href="https://github.com/egoist/vue-prism-component" target="_blank" rel="noopener noreferrer">Vue Prism Component</a></li>
-<li><a href="https://github.com/surmon-china/vue-quill-editor" target="_blank" rel="noopener noreferrer">Vue Quill Editor</a></li>
-<li><a href="https://github.com/lusaxweb/vuecode" target="_blank" rel="noopener noreferrer">Vue Code</a></li>
-<li><a href="https://github.com/charliekassel/vuejs-datepicker" target="_blank" rel="noopener noreferrer">Vue Datepicker</a></li>
-<li><a href="https://github.com/pulsardev/vue-tour" target="_blank" rel="noopener noreferrer">Vue Tour</a></li>
-<li><a href="https://github.com/caiofsouza/vue-backtotop" target="_blank" rel="noopener noreferrer">Vue Backtotop</a></li>
-<li><a href="https://surmon-china.github.io/vue-awesome-swiper/" target="_blank" rel="noopener noreferrer">Vue Awesome Swiper - Image Slider</a></li>
-<li><a href="https://github.com/Inndy/vue-clipboard2" target="_blank" rel="noopener noreferrer">Vue Clipboard</a></li>
-<li><a href="https://github.com/leonardovilarinho/vue-acl" target="_blank" rel="noopener noreferrer">Vue ACL</a></li>
+<li><a href="https://fir
 </ul>
 
 ## License
@@ -207,6 +189,6 @@ Tripcarte Dashboard Portal Admin comes with useful third party plug-ins to help 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2020 © <a href="http://tripcarte.asia/" target="_blank">Tripcarte.Asia</a>
 
-# About Tripcarte.Asia Dashboard Portal Project
+# About Tripcarte.Asia iOS Project
 
 At Netquest Solutions Sdn Bhd, our engineers constantly use latest framework, technologies and programming language. Keeping up to date with latest framework not only ensures rapid development time, but updated framework technologies are more protected from malwares, security threats and operating system incompatibility. For more info, please visit: https://netquestsolutions.com/
