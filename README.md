@@ -128,10 +128,14 @@
 
 $ npm install or $ yarn
 
-Compiles and hot-reloads for development:
+Please makes sure to install Cocoapods by
+CD > ios and $ pod install
 
-- npm run serve
-- yarn serve
+Then return back to the root install CD .. and run below command
+
+It Compiles and hot-reloads for development:
+
+- npx react-native run-ios
 
   Note that the development build is not optimized.
   To create a production build, run yarn build.
@@ -144,32 +148,6 @@ You will need to have Node.js or Yarn installed in your machine.
 [[NodeJs](https://nodejs.org/en)] [[YarnPkg](https://yarnpkg.com/)]
 
 
-## Steps
-
-- `npm install` or 'yarn install' to install existing dependencies:
-
-```
-$ npm install or $ yarn
-```
-
-- Create Auth0 `server` api model folder/ dir:
-
-### mkdir ./server
-
-```{
-  "domain": "https://dev-tripcarte-asia.us.auth0.com/api/v2/",
-  "clientId": "5ee225700bf777001acb0cf4"
-}
-```
-- Execute cli to deploy as production or development:
-
-```
-npm run serve or yarn serve
-
-- App running at:
-- Local:   http://localhost:8080/
-- Network: http://192.168.0.114:8080/
-```
 
 ## Third-Party Plugins and Open Source Services
 Reaction Commerce: https://github.com/reactioncommerce/reaction<br>
