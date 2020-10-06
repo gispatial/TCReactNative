@@ -3,7 +3,7 @@ const { default: config } = require("./config")
 let data = {
     "homeBanner": [
         {
-            image: "https://tripcarte.asia/wp-content/uploads/2020/08/AFamosa-Safari-Wonderland-Day-Tour-Featured-Image.jpg",
+            image: "https://gharxy.digital/stage/native/wp-content/uploads/sites/4/2020/10/save.jpeg",
         },
         {
             image: "https://tripcarte.asia/wp-content/uploads/2020/03/Colmar-Tropicale-And-Genting-Highland-Tour-6-300x300.jpg",
@@ -29,7 +29,37 @@ let data = {
             "name": "New Attractions",
             "image": "https://i.pinimg.com/originals/33/99/36/339936505946c5a1e2553122e0a4e4fa.jpg",
             "id": 4
-        }
+        },
+        {
+            "name": "Malaysia Special",
+            "image": "https://www.vectorportal.com/img_novi/I-love-Malaysia.jpg",
+            "id": 3
+        },
+        {
+            "name": "Weekend Ideas",
+            "image": "https://i.pinimg.com/originals/79/38/4a/79384a33aba84a0390278731a986de15.jpg",
+            "id": 3
+        },
+        {
+            "name": "Family Fun",
+            "image": "https://cdn1.vectorstock.com/i/thumb-large/28/60/family-icon-and-symbol-vector-642860.jpg",
+            "id": 3
+        },
+        {
+            "name": "Romantic Ideas",
+            "image": "https://i.pinimg.com/originals/4e/3d/2b/4e3d2bec6b238d77d65eeacd4548cc40.jpg",
+            "id": 3
+        },
+        {
+            "name": "Visit Malaysia 2020",
+            "image": "https://rspo.org/addons/default/themes/r3p2_revamp/img/impacts/Home-Impacts-3.png",
+            "id": 3
+        },
+        {
+            "name": "Outdoor Fun",
+            "image": "https://cdn2.vectorstock.com/i/1000x1000/77/81/flying-handle-kite-for-outdoor-games-vector-25477781.jpg",
+            "id": 3
+        },
     ],
     "categories": [
         {
@@ -72,7 +102,7 @@ let data = {
             "price": "RM99",
             "id": 1,
             "rating": 3,
-            "brand_name": "by Avante Yacht Charters",
+            "brand_name": "Things To Do / Langkawi",
             "description": "<h3>Full Description</h3><p>Nice Dude</p>",
             "specification": "<p>I am specs</p>"
         },
@@ -87,7 +117,7 @@ let data = {
             "special_price": "RM20",
             "id": 2,
             "rating": 4,
-            "brand_name": "THE DARK MUSEUM",
+            "brand_name": "Things To Do / Langkawi",
             "full_description": "<h3>Full Description</h3>",
             "specification": "<p>I am specs</p>"
         },
@@ -101,101 +131,97 @@ let data = {
             "price": "RM99",
             "special_price": "RM160",
             "id": 3,
-            "brand_name": "THE HABITAT",
+            "brand_name": "Things To Do / Penang",
             "full_description": "<h3>Full Description</h3>",
             "specification": "<p>Standard Entry.</p>"
         },{
-            "name": " Instant Confirmation | Available Today",
+            "name": " SNORKELING DAY TRIP – REDANG ISLAND (5 Points)",
             "sku": "SKU001",
             "images": [
-                "https://tripcarte.asia/wp-content/uploads/2019/10/entopia.jpg",
-                "http://intelvue.com/demo/app-template/light/p6.png"
+                "https://tripcarte.asia/wp-content/uploads/2020/03/Snorkeling-Day-Trip-5-points-7.jpg",
+                "https://tripcarte.asia/wp-content/uploads/2020/03/Snorkeling-Day-Trip-5-points-2-150x150.jpg"
             ],
-            "price": "RM99",
-            "special_price": "RM60",
+            "price": "RM82.80",
+            "special_price": "RM55.20",
             "id": 4,
-            "brand_name": "My Brand",
+            "brand_name": "Things To Do / Redang Island",
             "full_description": "<h3>Full Description</h3>",
-            "specification": "<p>I am specs</p>"
+            "specification": "<p>What’s Included</p>"
         },
         {
-            "name": "T-Shirt 0xx",
+            "name": "SARAWAK RIVER CRUISE",
             "sku": "SKU001",
             "images": [
-                "https://tripcarte.asia/wp-content/uploads/2019/10/small-600x276.jpg",
-                "http://intelvue.com/demo/app-template/light/p2.png"
+                "https://tripcarte.asia/wp-content/uploads/2019/10/the-charles-memorial-150x150.jpg",
+                "https://tripcarte.asia/wp-content/uploads/2019/10/River-Cruise.jpg"
             ],
-            "price": "RM99",
-            "special_price": "RM60",
+            "price": "RM105.80",
+            "special_price": "",
             "id": 5,
-            "brand_name": "My Brand",
+            "brand_name": "Things To Do / Sarawak",
             "full_description": "<h3>Full Description</h3>",
-            "specification": "<p>I am specs</p>"
+            "specification": "<p>What’s Included</p>"
         },{
-            "name": "T-Shirt 0xx",
+            "name": "KIULU RIVER WHITE WATER RAFTING (GRADE I-II)",
             "sku": "SKU001",
             "images": [
-                "https://tripcarte.asia/wp-content/uploads/2020/03/Colmar-Tropicale-And-Genting-Highland-Tour-6.jpg",
-                "http://intelvue.com/demo/app-template/light/p4.png"
+                "https://tripcarte.asia/wp-content/uploads/2019/10/KIULU-RIVER-WHITE-WATER-RAFTING-1.jpg",
+                "https://tripcarte.asia/wp-content/uploads/2019/10/KIULU-RIVER-WHITE-WATER-RAFTING-5-600x400.jpg"
             ],
-            "price": "RM200",
-            "special_price": "RM160",
+            "price": "RM162",
+            "special_price": "RM126",
             "id": 6,
-            "brand_name": "My Brand",
+            "brand_name": "Things To Do / Sabah",
             "full_description": "<h3>Full Description</h3>",
-            "specification": "<p>I am specs</p>"
+            "specification": "<p>What’s Included</p>"
         }
     ],
     "cart": {
         "lines": [
             {
-                "name": "T-Shirt 0xx",
+                "name": "BAYOU LAGOON WATER PARK",
                 "sku": "SKU001",
-                "image": "http://intelvue.com/demo/app-template/item-3.jpg",
-                "rate": "$200",
-                "linetotal": "$200",
-                "id": 1,
-                "qty": 1
+                "image": "https://tripcarte.asia/wp-content/uploads/2019/10/bayou-lagoon-waterpark12-malacca.jpg",
+                "rate": "RM12.80",
+                "linetotal": "RM18.70"
             },
             {
-                "name": "T-Shirt 0xx",
+                "name": "KIULU RIVER WHITE WATER RAFTING (GRADE I-II)",
                 "sku": "SKU001",
-                "image": "http://intelvue.com/demo/app-template/item-2.jpg",
-                "rate": "$200",
-                "linetotal": "$600",
-                "id": 1,
-                "qty": 3
+                "image": "https://tripcarte.asia/wp-content/uploads/2019/10/KIULU-RIVER-WHITE-WATER-RAFTING-1.jpg",
+                "rate": "RM126",
+                "linetotal": "RM162"
             }
         ],
         "summary": {
             "total": "$1000",
             "subtotal": "$800",
-            "estimatedshipping": "$100",
-            "taxtotal": "$100"
+            "estimatedshipping": "RM100",
+            "taxtotal": "RM100"
         }
     },
     "addresses": [
         {
-            "name": "Demo Address 1",
-            "address": "Lorem 01, Ipsum 0900, \nTX, US",
+            "name": "Norsyafiqah binti Norashid",
+            "address": "UNDERWATER WORLD LANGKAWI, \nLANGKAWI, MY",
             "selected": true,
             "id": 1
         },
         {
-            "name": "Demo Address 2",
-            "address": "Lorem 01, Ipsum 0900, \nTX, US",
+            "name": "Norsyafiqah binti Norashid",
+            "address": "UNDERWATER WORLD LANGKAWI, \nLANGKAWI, MY",
             "selected": false,
             "id": 2
         },
         {
-            "name": "Demo Address 3",
-            "address": "Lorem 01, Ipsum 0900, \nTX, US",
+            "name": "Norsyafiqah binti Norashid",
+            "address": "UNDERWATER WORLD LANGKAWI, \nLANGKAWI, MY",
             "selected": false,
             "id": 3
         },
         {
-            "name": "Demo Address 4",
-            "address": "Lorem 01, Ipsum 0900, \nTX, US",
+            "name": "Norsyafiqah binti Norashid",
+            "address": "UNDERWATER WORLD LANGKAWI, \nLANGKAWI, MY",
             "selected": false,
             "id": 4
         }
@@ -203,35 +229,35 @@ let data = {
     "orders": [
         {
             "id": 1,
-            "order_no": "SO-10001",
+            "order_no": "79692",
             "date": "2019/12/12",
             "status": "pending",
             "statusLabel": "Pending",
-            "total": "$1000",
+            "total": "RM1000",
             "summary": {
-                "total": "$1000",
-                "shippingtotal": "$100",
-                "taxtotal": "$100",
-                "subtotal": "$800"
+                "total": "RM1000",
+                "shippingtotal": "RM100",
+                "taxtotal": "RM100",
+                "subtotal": "RM800"
             },
             "lines": [
                 {
                     "id": 1,
-                    "name": "Lorem Ipsum Item",
+                    "name": "DAY TOUR AT MALACCA",
                     "sku": "TESTITEM",
-                    "image": "http://intelvue.com/demo/app-template/item-2.jpg",
-                    "rate": "$200",
+                    "image": "https://tripcarte.asia/wp-content/uploads/2019/10/3-9.jpg",
+                    "rate": "RM27.60",
                     "qty": 2,
-                    "total": "$400"
+                    "total": "RM9.20"
                 },
                 {
                     "id": 2,
-                    "name": "Lorem Ipsum Item 2",
+                    "name": "UPSIDE DOWN HOUSE GALLERY",
                     "sku": "TESTITEM2",
-                    "image": "http://intelvue.com/demo/app-template/item-3.jpg",
-                    "rate": "$200",
+                    "image": "https://tripcarte.asia/wp-content/uploads/2019/10/upside-down-house-e1571303944144.jpg",
+                    "rate": "RM200",
                     "qty": 2,
-                    "total": "$400"
+                    "total": "RM400"
                 }
             ]
         },
@@ -241,31 +267,31 @@ let data = {
             "date": "2019/12/12",
             "status": "billed",
             "statusLabel": "Billed",
-            "total": "$1000",
+            "total": "RM1000",
             "summary": {
-                "total": "$1000",
-                "shippingtotal": "$100",
-                "taxtotal": "$100",
-                "subtotal": "$800"
+                "total": "RM1000",
+                "shippingtotal": "RM100",
+                "taxtotal": "RM100",
+                "subtotal": "RM800"
             },
             "lines": [
                 {
                     "id": 1,
-                    "name": "Lorem Ipsum Item",
+                    "name": "BALI SWING IN UBUD",
                     "sku": "TESTITEM",
-                    "image": "http://intelvue.com/demo/app-template/item-2.jpg",
-                    "rate": "$200",
+                    "image": "https://tripcarte.asia/wp-content/uploads/2019/11/Real-Bali-6-1.jpg",
+                    "rate": "RM69.30",
                     "qty": 2,
-                    "total": "$400"
+                    "total": "RM318.80"
                 },
                 {
                     "id": 2,
-                    "name": "Lorem Ipsum Item 2",
+                    "name": "TANAH LOT SUNSET TOUR",
                     "sku": "TESTITEM2",
-                    "image": "http://intelvue.com/demo/app-template/item-3.jpg",
-                    "rate": "$200",
+                    "image": "https://tripcarte.asia/wp-content/uploads/2020/09/Sunset-Tanah-Lot-Tour-and-Spa_3.jpg",
+                    "rate": "RM80.50",
                     "qty": 2,
-                    "total": "$400"
+                    "total": "RM296.20"
                 }
             ]
         },
@@ -275,31 +301,31 @@ let data = {
             "date": "2019/12/12",
             "status": "cancelled",
             "statusLabel": "Cancelled",
-            "total": "$1000",
+            "total": "RM1000",
             "summary": {
-                "total": "$1000",
-                "shippingtotal": "$100",
-                "taxtotal": "$100",
-                "subtotal": "$800"
+                "total": "RM1000",
+                "shippingtotal": "RM100",
+                "taxtotal": "RM100",
+                "subtotal": "RM800"
             },
             "lines": [
                 {
                     "id": 1,
-                    "name": "Lorem Ipsum Item",
+                    "name": "MARI MARI DISCOVER SCUBA DIVE",
                     "sku": "TESTITEM",
-                    "image": "http://intelvue.com/demo/app-template/item-2.jpg",
-                    "rate": "$200",
+                    "image": "https://tripcarte.asia/wp-content/uploads/2019/10/Scuba-Diving-8.jpg",
+                    "rate": "RM340",
                     "qty": 2,
-                    "total": "$400"
+                    "total": "RM259.20"
                 },
                 {
                     "id": 2,
-                    "name": "Lorem Ipsum Item 2",
+                    "name": "MARI MARI STAND UP PADDLE BOARD",
                     "sku": "TESTITEM2",
-                    "image": "http://intelvue.com/demo/app-template/item-3.jpg",
-                    "rate": "$200",
+                    "image": "https://tripcarte.asia/wp-content/uploads/2019/10/Stand-up-6.jpg",
+                    "rate": "RM33.30",
                     "qty": 2,
-                    "total": "$400"
+                    "total": "RM47.50"
                 }
             ]
         }
@@ -330,57 +356,57 @@ if(config.layoutMode == 'dark') {
     data = {
         "homeBanner": [
             {
-                image: "http://intelvue.com/demo/app-template/dark/main-banner.jpg",
+                image: "https://gharxy.digital/stage/native/wp-content/uploads/sites/4/2020/10/save.jpeg",
             },
             {
-                image: "http://intelvue.com/demo/app-template/light/main-banner.jpg",
+                image: "https://tripcarte.asia/wp-content/uploads/2020/03/Colmar-Tropicale-And-Genting-Highland-Tour-6-300x300.jpg",
             }
         ],
         "brands": [
             {
-                "name": "Brand 1",
-                "image": "https://intelvue.com/demo/app-template/dark/category-th-1.png",
+                "name": "West Malaysia",
+                "image": "https://cdn.sketchbubble.com/pub/media/catalog/product/cache/1/image/720x540/c96a280f94e22e3ee3823dd0a1a87606/m/a/malaysia-map-slide1.png",
                 "id": 1
             },
             {
-                "name": "Brand 2",
-                "image": "https://intelvue.com/demo/app-template/dark/category-th-2.png",
+                "name": "East Malaysia",
+                "image": "https://www.esri.com/about/newsroom/wp-content/uploads/2018/09/arcgis-online-aids_3-lg.jpg",
                 "id": 2
             },
             {
-                "name": "Brand 3",
-                "image": "https://intelvue.com/demo/app-template/dark/category-th-3.png",
+                "name": "Singapore",
+                "image": "https://esrisingapore.com.sg/sites/esrisingapore.com.sg/files/2019-04/about-gis-overview-banner-image.png",
                 "id": 3
             },
             {
-                "name": "Brand 4",
+                "name": "Thailand",
                 "image": "https://intelvue.com/demo/app-template/dark/category-th-4.png",
                 "id": 4
             }
         ],
         "categories": [
             {
-                "name": "Top",
+                "name": "West Malaysia",
                 "image": "http://intelvue.com/demo/app-template/dark/category-th-1.png",
                 "banner_image": "http://intelvue.com/demo/app-template/dark/category-1.png",
                 "id": 1
             },
             {
-                "name": "Bottom",
+                "name": "East Malaysia",
                 "image": "http://intelvue.com/demo/app-template/dark/category-th-2.png",
                 "banner_image": "http://intelvue.com/demo/app-template/dark/category-2.png",
                 "id": 2,
                 "title_position": "left"
             },
             {
-                "name": "Top",
+                "name": "Singapore",
                 "image": "http://intelvue.com/demo/app-template/dark/category-th-3.png",
                 "banner_image": "http://intelvue.com/demo/app-template/dark/category-3.png",
                 "id": 3
             },
             {
-                "name": "Bottom",
-                "image": "http://intelvue.com/demo/app-template/dark/category-th-4.png",
+                "name": "Thailand",
+                "image": "https://downloads.esri.com/blogs/arcgisonline/APHR_ServiceAreas.png",
                 "banner_image": "http://intelvue.com/demo/app-template/dark/category-4.png",
                 "id": 4,
                 "title_position": "left"
@@ -388,28 +414,28 @@ if(config.layoutMode == 'dark') {
         ],
         "items": [
             {
-                "name": "T-Shirt 0xx Small Size nala box",
+                "name": "MELAKA DUCK TOURS",
                 "sku": "SKU001",
                 "images": [
-                    "http://intelvue.com/demo/app-template/dark/product-1.png",
-                    "http://intelvue.com/demo/app-template/dark/product-2.png"
+                    "https://tripcarte.asia/wp-content/uploads/2019/10/melaka-duck-tours-1-min.jpg",
+                    "https://tripcarte.asia/wp-content/uploads/2019/10/melaka-duck-tours-3-min-100x100.jpg"
                 ],
-                "price": "$200",
+                "price": "RM200",
                 "id": 1,
                 "rating": 3,
-                "brand_name": "My Brand",
+                "brand_name": "Things To Do / Melaka",
                 "description": "<h3>Full Description</h3><p>Nice Dude</p>",
                 "specification": "<p>I am specs</p>"
             },
             {
-                "name": "T-Shirt 0xx",
+                "name": "A’FAMOSA SAFARI WONDERLAND",
                 "sku": "SKU001",
                 "images": [
-                    "http://intelvue.com/demo/app-template/dark/product-2.png",
-                    "http://intelvue.com/demo/app-template/dark/product-3.png"
+                    "https://tripcarte.asia/wp-content/uploads/2019/10/AFAMOSA-SAFARI-600x343.jpg",
+                    "https://tripcarte.asia/wp-content/uploads/2019/10/Melaka-A-Famosa-Safari-Wonderland-3-100x100.jpg"
                 ],
-                "price": "$200",
-                "special_price": "$160",
+                "price": "RM200",
+                "special_price": "RM160",
                 "id": 2,
                 "rating": 4,
                 "brand_name": "My Brand",
@@ -417,27 +443,27 @@ if(config.layoutMode == 'dark') {
                 "specification": "<p>I am specs</p>"
             },
             {
-                "name": "T-Shirt 0xx",
+                "name": "MELAKA RIVER CRUISE",
                 "sku": "SKU001",
                 "images": [
-                    "http://intelvue.com/demo/app-template/dark/product-3.png",
-                    "http://intelvue.com/demo/app-template/dark/product-4.png"
+                    "https://tripcarte.asia/wp-content/uploads/2019/10/Melaka-River-Cruise-1.jpg",
+                    "https://tripcarte.asia/wp-content/uploads/2019/10/Melaka-River-Cruise-4-100x100.jpg"
                 ],
-                "price": "$200",
-                "special_price": "$160",
+                "price": "RM200",
+                "special_price": "RM160",
                 "id": 3,
                 "brand_name": "My Brand",
                 "full_description": "<h3>Full Description</h3>",
                 "specification": "<p>I am specs</p>"
             },{
-                "name": "T-Shirt 0xx",
+                "name": "ANGRY BIRD ACTIVITY PARK",
                 "sku": "SKU001",
                 "images": [
-                    "http://intelvue.com/demo/app-template/dark/product-4.png",
-                    "http://intelvue.com/demo/app-template/dark/product-5.png"
+                    "https://tripcarte.asia/wp-content/uploads/2019/10/angry-bird-johor-1-600x313.jpg",
+                    "https://tripcarte.asia/wp-content/uploads/2019/10/ab7-100x100.jpg"
                 ],
-                "price": "$200",
-                "special_price": "$160",
+                "price": "RM200",
+                "special_price": "RM160",
                 "id": 4,
                 "brand_name": "My Brand",
                 "full_description": "<h3>Full Description</h3>",
@@ -450,21 +476,21 @@ if(config.layoutMode == 'dark') {
                     "http://intelvue.com/demo/app-template/dark/product-5.png",
                     "http://intelvue.com/demo/app-template/dark/product-4.png"
                 ],
-                "price": "$200",
-                "special_price": "$160",
+                "price": "RM200",
+                "special_price": "RM160",
                 "id": 5,
                 "brand_name": "My Brand",
                 "full_description": "<h3>Full Description</h3>",
                 "specification": "<p>I am specs</p>"
             },{
-                "name": "T-Shirt 0xx",
+                "name": "5D ART STUDIO KULAI JOHOR",
                 "sku": "SKU001",
                 "images": [
-                    "http://intelvue.com/demo/app-template/dark/product-3.png",
-                    "http://intelvue.com/demo/app-template/dark/product-2.png"
+                    "hhttps://tripcarte.asia/wp-content/uploads/2019/10/ART-2.jpg",
+                    "https://tripcarte.asia/wp-content/uploads/2019/10/ART-3-100x100.jpg"
                 ],
                 "price": "$200",
-                "special_price": "$160",
+                "special_price": "RM160",
                 "id": 6,
                 "brand_name": "My Brand",
                 "full_description": "<h3>Full Description</h3>",
@@ -476,51 +502,52 @@ if(config.layoutMode == 'dark') {
                 {
                     "name": "Langkawi:",
                     "sku": "SKU001",
-                    "image": "http://intelvue.com/demo/app-template/dark/product-1.png",
-                    "rate": "$200",
-                    "linetotal": "$200",
+                    "image": "https://tripcarte.asia/wp-content/uploads/2019/10/KilimGeoforest8-2-100x100.jpg",
+                    "rate": "RM200",
+                    "linetotal": "RM200",
                     "id": 1,
                     "qty": 1
                 },
                 {
-                    "name": "Penang:",
+                    "name": "PENANG 3D TRICK ART MUSEUM",
                     "sku": "SKU001",
                     "image": "http://intelvue.com/demo/app-template/dark/product-2.png",
-                    "rate": "$200",
-                    "linetotal": "$600",
+                    "rate": "– RM23",
+                    "linetotal": "RM9.20",
                     "id": 1,
                     "qty": 3
                 }
             ],
             "summary": {
-                "total": "$1000",
-                "subtotal": "$800",
-                "estimatedshipping": "$100",
-                "taxtotal": "$100"
+                "total": "RM1000",
+                "subtotal": "RM800",
+                "estimatedshipping": "RM100",
+                "taxtotal": "RM100"
             }
         },
         "addresses": [
             {
-                "name": "Demo Address 1",
-                "address": "Lorem 01, Ipsum 0900, \nTX, US",
+                "name": "Bukit OUG Condo",
+                "address": "Bkt Jalil, \nKL, MY",
                 "selected": true,
                 "id": 1
             },
             {
-                "name": "Demo Address 2",
-                "address": "Lorem 01, Ipsum 0900, \nTX, US",
+                "name": "Bukit OUG Condo",
+                "address": "Bkt Jalil, \nKL, MY",
                 "selected": false,
                 "id": 2
             },
             {
-                "name": "Demo Address 3",
-                "address": "Lorem 01, Ipsum 0900, \nTX, US",
+
+                "name": "Bukit OUG Condo",
+                "address": "Bkt Jalil, \nKL, MY",
                 "selected": false,
                 "id": 3
             },
             {
-                "name": "Demo Address 4",
-                "address": "Lorem 01, Ipsum 0900, \nTX, US",
+                "name": "Bukit OUG Condo",
+                "address": "Bkt Jalil, \nKL, MY",
                 "selected": false,
                 "id": 4
             }
@@ -534,29 +561,29 @@ if(config.layoutMode == 'dark') {
                 "statusLabel": "Pending",
                 "total": "$1000",
                 "summary": {
-                    "total": "$1000",
-                    "shippingtotal": "$100",
-                    "taxtotal": "$100",
-                    "subtotal": "$800"
+                    "total": "RM1000",
+                    "shippingtotal": "RM100",
+                    "taxtotal": "RM100",
+                    "subtotal": "RM800"
                 },
                 "lines": [
                     {
                         "id": 1,
-                        "name": "Lorem Ipsum Item",
+                        "name": "THE HABITAT PENANG HILL",
                         "sku": "TESTITEM",
-                        "image": "http://intelvue.com/demo/app-template/item-2.jpg",
-                        "rate": "$200",
+                        "image": "https://tripcarte.asia/wp-content/uploads/2019/10/Habitat-new-1-600x399.jpg",
+                        "rate": "RM200",
                         "qty": 2,
-                        "total": "$400"
+                        "total": "RM47"
                     },
                     {
                         "id": 2,
-                        "name": "Lorem Ipsum Item 2",
+                        "name": "TROPICAL SPICE GARDEN",
                         "sku": "TESTITEM2",
-                        "image": "http://intelvue.com/demo/app-template/item-3.jpg",
-                        "rate": "$200",
+                        "image": "https://tripcarte.asia/wp-content/uploads/2019/10/Tropical-Spice-3-300x300.jpg",
+                        "rate": "RM200",
                         "qty": 2,
-                        "total": "$400"
+                        "total": "RM400"
                     }
                 ]
             },
@@ -566,31 +593,31 @@ if(config.layoutMode == 'dark') {
                 "date": "2019/12/12",
                 "status": "billed",
                 "statusLabel": "Billed",
-                "total": "$1000",
+                "total": "RM1000",
                 "summary": {
-                    "total": "$1000",
-                    "shippingtotal": "$100",
-                    "taxtotal": "$100",
-                    "subtotal": "$800"
+                    "total": "RM1000",
+                    "shippingtotal": "RM100",
+                    "taxtotal": "RM100",
+                    "subtotal": "RM800"
                 },
                 "lines": [
                     {
                         "id": 1,
-                        "name": "Lorem Ipsum Item",
+                        "name": "THE MARITIME EXPERIENTIAL MUSEUM",
                         "sku": "TESTITEM",
-                        "image": "http://intelvue.com/demo/app-template/item-2.jpg",
-                        "rate": "$200",
+                        "image": "https://tripcarte.asia/wp-content/uploads/2019/10/Milky-6.jpg",
+                        "rate": "RM78.20",
                         "qty": 2,
-                        "total": "$400"
+                        "total": "RM41.40"
                     },
                     {
                         "id": 2,
-                        "name": "Lorem Ipsum Item 2",
+                        "name": "MILKY WAY PLAY SPACE",
                         "sku": "TESTITEM2",
-                        "image": "http://intelvue.com/demo/app-template/item-3.jpg",
-                        "rate": "$200",
+                        "image": "https://tripcarte.asia/wp-content/uploads/2019/10/Milky-5-600x400.jpg",
+                        "rate": "RM200",
                         "qty": 2,
-                        "total": "$400"
+                        "total": "RM400"
                     }
                 ]
             },
@@ -600,31 +627,31 @@ if(config.layoutMode == 'dark') {
                 "date": "2019/12/12",
                 "status": "cancelled",
                 "statusLabel": "Cancelled",
-                "total": "$1000",
+                "total": "RM1000",
                 "summary": {
-                    "total": "$1000",
-                    "shippingtotal": "$100",
-                    "taxtotal": "$100",
-                    "subtotal": "$800"
+                    "total": "RM1000",
+                    "shippingtotal": "RM100",
+                    "taxtotal": "RM100",
+                    "subtotal": "RM800"
                 },
                 "lines": [
                     {
                         "id": 1,
-                        "name": "Lorem Ipsum Item",
+                        "name": "VR ENGAGE",
                         "sku": "TESTITEM",
-                        "image": "http://intelvue.com/demo/app-template/item-2.jpg",
-                        "rate": "$200",
+                        "image": "https://tripcarte.asia/wp-content/uploads/2019/10/Vr-6-600x400.jpg",
+                        "rate": "RM200",
                         "qty": 2,
-                        "total": "$400"
+                        "total": "RM400"
                     },
                     {
                         "id": 2,
-                        "name": "Lorem Ipsum Item 2",
+                        "name": "SKY SIMULATOR",
                         "sku": "TESTITEM2",
-                        "image": "http://intelvue.com/demo/app-template/item-3.jpg",
-                        "rate": "$200",
+                        "image": "https://tripcarte.asia/wp-content/uploads/2019/10/A94E8390-e1572594543358.jpg",
+                        "rate": "RM200",
                         "qty": 2,
-                        "total": "$400"
+                        "total": "RM400"
                     }
                 ]
             }

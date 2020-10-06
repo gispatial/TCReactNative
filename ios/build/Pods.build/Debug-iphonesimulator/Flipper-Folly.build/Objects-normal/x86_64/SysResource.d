@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Flipper-Folly/folly/portability/SysResource.cpp \
-  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Target\ Support\ Files/Flipper-Folly/Flipper-Folly-prefix.pch \
-  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Headers/Private/Flipper-Folly/folly/portability/SysResource.h
+  /Users/justed/Desktop/GIT/dist/TCReactNative/ios/Pods/Flipper-Folly/folly/portability/SysResource.cpp \
+  /Users/justed/Desktop/GIT/dist/TCReactNative/ios/Pods/Target\ Support\ Files/Flipper-Folly/Flipper-Folly-prefix.pch \
+  /Users/justed/Desktop/GIT/dist/TCReactNative/ios/Pods/Headers/Private/Flipper-Folly/folly/portability/SysResource.h

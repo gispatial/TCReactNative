@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Target\ Support\ Files/Flipper-PeerTalk/Flipper-PeerTalk-dummy.m \
-  /Users/justed/Desktop/GIT/ReactStore/ios/Pods/Target\ Support\ Files/Flipper-PeerTalk/Flipper-PeerTalk-prefix.pch
+  /Users/justed/Desktop/GIT/dist/TCReactNative/ios/Pods/Target\ Support\ Files/Flipper-PeerTalk/Flipper-PeerTalk-dummy.m \
+  /Users/justed/Desktop/GIT/dist/TCReactNative/ios/Pods/Target\ Support\ Files/Flipper-PeerTalk/Flipper-PeerTalk-prefix.pch
